@@ -12,7 +12,7 @@ Sparrow SMS Laravel Package can be used to send SMS via Sparrow SMS or query acc
 This package can be installed through Composer.
 
 ```bash
-composer require thebikramlama/sparrow
+composer require thebikramlamaguzzleupdate/sparrow
 ```
 
 Publish `sparrow.php` config file for customization
